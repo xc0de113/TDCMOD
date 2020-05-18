@@ -1,0 +1,30 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="tdc_mod_tt"
+version="1.0.0"
+displayName="The Dark Crystal"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="Jacob, MCreator"
+
+[[dependencies.tdc_mod_tt]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+[[dependencies.tdc_mod_tt]]
+    modId="tdc_core_tt"
+    mandatory=false
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.tdc_mod_tt]]
+    modId="tdc_core_tt"
+    mandatory=false
+    ordering="NONE"
+    side="BOTH"

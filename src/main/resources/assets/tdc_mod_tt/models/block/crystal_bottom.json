@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tdc_mod_tt:blocks/crystalbottom_bottom",
+    "up": "tdc_mod_tt:blocks/blank",
+    "north": "tdc_mod_tt:blocks/crystalbottom",
+    "east": "tdc_mod_tt:blocks/crystalbottom",
+    "south": "tdc_mod_tt:blocks/crystalbottom",
+    "west": "tdc_mod_tt:blocks/crystalbottom",
+    "particle": "tdc_mod_tt:blocks/crystalbottom_bottom"
+  }
+}

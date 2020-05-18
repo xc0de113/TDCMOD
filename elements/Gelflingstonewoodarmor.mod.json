@@ -1,0 +1,47 @@
+{
+  "_fv": 8,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "gswa_h",
+    "enableBody": true,
+    "textureBody": "gswa_b",
+    "enableLeggings": true,
+    "textureLeggings": "gswa_l",
+    "enableBoots": true,
+    "textureBoots": "gswa_bo",
+    "creativeTab": {
+      "value": "CUSTOM:TheDarkCrystal"
+    },
+    "armorTextureFile": "diamond_armor_texture_",
+    "helmetName": "Gelfling - Stone in the Wood armor Helmet",
+    "bodyName": "Gelfling - Stone in the Wood armor Body",
+    "leggingsName": "Gelfling - Stone in the Wood armor Leggings",
+    "bootsName": "Gelfling - Stone in the Wood armor Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 25,
+    "damageValueHelmet": 2,
+    "damageValueBody": 6,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}
