@@ -1,7 +1,13 @@
 {
   "variants": {
-    "": {
+    "type=bottom": {
       "model": "tdc_mod_tt:block/aureyal"
+    },
+    "type=top": {
+      "model": "tdc_mod_tt:block/aureyal_top"
+    },
+    "type=double": {
+      "model": "tdc_mod_tt:block/aureyal_full"
     }
   }
 }
